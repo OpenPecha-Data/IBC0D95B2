@@ -1,0 +1,39 @@
+id: IBC0D95B2
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T19:59:31.953022'
+last_modified: '2022-06-18T19:59:31.953032'
+parser: null
+source_metadata:
+  title: Supplement to the autobiography of sTag tshang lo tsā ba Shes rab rin chen
+    (1405–1477)
+  author: jam dbyangs chos kyi dpal byor/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2020-08-03); revision in process, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre; This text was published by the Paltsek
+    Research Institute. (src)
+  - Text input:dpal brtsegs bod yig dpe rnying zhib 'jug khang / (Lhasa) (eds)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:dpal brtsegs bod yig dpe rnying zhib 'jug khang / (eds)
+  text_witnesses: https://sakyaresearch.org/sources/178
+  bases:
+    291d:
+      title: Supplement to the autobiography of sTag tshang lo tsā ba Shes rab rin
+        chen (1405–1477)
+      order: 1
+      base_file: 291d.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
